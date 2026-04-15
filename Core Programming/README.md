@@ -7,7 +7,7 @@
 ## 📁 Folder Structure
 
 ```
-phase2_core_programming/
+Core_programming/
 │
 ├── topics/
 │   ├── 01_functions.py              ← Arguments, return, *args, recursion
