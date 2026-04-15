@@ -1,5 +1,5 @@
 # ============================================================
-#  PHASE 2 — Topic 1: Functions
+#  Topic 1: Functions
 #  Covers: arguments, return values, *args/**kwargs, recursion
 # ============================================================
 
