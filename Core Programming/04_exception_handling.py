@@ -1,5 +1,5 @@
 # ============================================================
-#  PHASE 2 — Topic 4: Exception Handling
+#  Topic 4: Exception Handling
 #  Covers: try/except, multiple exceptions, else, finally,
 #          raising exceptions, custom exceptions
 # ============================================================
