@@ -1,5 +1,5 @@
 # ============================================================
-#  PHASE 2 — Project 3: Password Checker & Generator
+#  Project 3: Password Checker & Generator
 #  Features: strength analysis, detailed feedback, password
 #            generator, save history to file, exception handling
 # ============================================================
