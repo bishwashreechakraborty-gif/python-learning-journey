@@ -1,5 +1,5 @@
 # ============================================================
-#  PHASE 2 — Project 1: Calculator
+#  Project 1: Calculator
 #  Features: basic ops, power, sqrt, log, history, exception
 #            handling, modular functions, loop menu
 # ============================================================
