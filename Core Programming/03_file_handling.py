@@ -1,5 +1,5 @@
 # ============================================================
-#  PHASE 2 — Topic 3: File Handling
+#  Topic 3: File Handling
 #  Covers: read, write, append, CSV, JSON, os operations
 # ============================================================
 
