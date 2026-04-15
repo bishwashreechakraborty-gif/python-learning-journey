@@ -1,5 +1,5 @@
 # ============================================================
-#  PHASE 2 — Project 2: File-Based Notes App
+#  Project 2: File-Based Notes App
 #  Features: add, view, search, edit, delete notes
 #            JSON persistence, timestamps, exception handling
 # ============================================================
