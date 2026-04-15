@@ -1,5 +1,5 @@
 # ============================================================
-#  PHASE 2 — Topic 2: Modules & Packages
+#  Topic 2: Modules & Packages
 #  Covers: built-in modules, importing, creating your own
 # ============================================================
 
